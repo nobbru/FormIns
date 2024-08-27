@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">FormIns</string>
+<string-array name="paises_array">
+    <item>Selecione a sua nacionalidade</item>
+    <item>Angola</item>
+    <item>Brasil</item>
+    <item>Cabo Verde</item>
+    <item>Guiné-Bissau</item>
+    <item>Guiné Equatorial</item>
+    <item>Moçambique</item>
+    <item>Portugal</item>
+    <item>São Tomé e Principe</item>
+    <item>Timor-Leste</item>
+</string-array>
+</resources>
