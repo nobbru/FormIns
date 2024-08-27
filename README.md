@@ -1,4 +1,4 @@
-* Overview *
+## Overview ##
 
 This is a small android app developed in Java, that only takes data in a form and saves.
 The form is composed by 6 EditText, 1 RadioGroup, 3 RadioButton, 1 Spinner, 1 CheckBox, and 2 Button.
